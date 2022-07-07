@@ -3,7 +3,7 @@
 
 - 🤔  I’m currently learning React, Vue.js, TypeScript and Rust.
 - 🧑‍🎨  I love drawing and programming.
-- 🔭  I'm a Front-End Engineer
+- 🔭  I'm a Front-End Engineer.
 
 
 
